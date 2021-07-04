@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch Curso",
+      "request": "launch",
+      "mainClass": "atividade1.Curso",
+      "projectName": "Atividade-java"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
